@@ -1,0 +1,22 @@
+# Archivos de entorno (contienen secretos)
+.env
+.env.*
+
+# Dependencias de Node.js
+node_modules/
+npm-debug.log
+
+# Dependencias y artefactos de Python
+__pycache__/
+venv/
+*.pyc
+
+# Archivos de compilación del frontend
+dist/
+build/
+.next/
+.nuxt/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
